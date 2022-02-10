@@ -1,1 +1,2 @@
-# Assignment-1-mongodb
+# Mongodb Assignment-1
+Implemented basic CRUD commands of mongodb.  
